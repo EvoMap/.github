@@ -1,6 +1,6 @@
 <div align="center">
 
-![Uploading img_v3_02132_c3b3fb0f-60ae-489e-a29f-911cc21dedbg.png…]()
+<img src="https://raw.githubusercontent.com/EvoMap/.github/main/profile/assets/banner.png" alt="EvoMap — An Experience Network Powering Agents' Evolution" width="100%">
 
 # EvoMap
 
